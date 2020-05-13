@@ -57,8 +57,6 @@ A Curated List of Awesome FISCO-BCOS Resources
 ![公众号](https://github.com/ConsensusDev/awsome-FISCO-BCOS/blob/master/files/OfficialAccountsQR.jpg)
 * Fisco-BCOS开源小助手微信  
 ![开源小助手微信](https://github.com/ConsensusDev/awsome-FISCO-BCOS/blob/master/files/WeChatQR.jpg)
-* 共识区块链技术社区  
-![共识区块链技术社区](https://github.com/ConsensusDev/awsome-FISCO-BCOS/blob/master/files/ConsensusDev.jpg)
 
 # 案例
 * [案例集合](https://github.com/ConsensusDev/awsome-FISCO-BCOS/blob/master/files/FISCO+BCOS案例精编-2019年8月更新.pdf) - 最新案例集合
