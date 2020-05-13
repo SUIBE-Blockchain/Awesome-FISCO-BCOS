@@ -67,11 +67,3 @@ A Curated List of Awesome FISCO-BCOS Resources
 * [深度解析系列文章](http://mp.weixin.qq.com/mp/homepage?__biz=MzU5NTg0MjA4MA==&hid=9&sn=7edf9a62a2f45494671c91f0608db903&scene=18#wechat_redirect) - 官方公众号的精选技术文章
 * [常见问题](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/faq.html) - 常见问题索引
 * [WeDRP白皮书](/files/微众银行区块链WeDPR隐私保护白皮书.pdf) - 隐私保护的概念论述的非常棒。
-
-
-## 贡献<!-- omit in toc --> 
-欢迎大家提供其他跟Fisco-BCOS相关的资源
-可以直接提交Pull Request  
-也可以联系我:
-* 微信  
-![Reed的WeChat](https://github.com/ConsensusDev/awsome-FISCO-BCOS/blob/master/files/reed.jpg)
